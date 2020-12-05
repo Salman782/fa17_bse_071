@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.teal,
         body: contactus(
-          email: ' @gmail.com',
+          email: 'salman @gmail.com',
           companyName: ' ',
           phoneNumber: ' 000',
           githubUserName: ' salman',
