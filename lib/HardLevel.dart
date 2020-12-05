@@ -9,7 +9,7 @@ class _HardLevelState extends State<HardLevel> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[200],
+      backgroundColor: Colorsorange[200],
       appBar: AppBar(
         title: Text('Hard Level'),
       ),
